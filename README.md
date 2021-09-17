@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey hey 👋
+
+I'm Weilong, a web developer, a product-mind implementer, and an open-minded feedback listener.
+Currently, I am working on building many tiny changes in my daily life🔥🔥, inspired by **Atomic Habits**
+
 
 <!--
 **IgnacioFan/IgnacioFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
